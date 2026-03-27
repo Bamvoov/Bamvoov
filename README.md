@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm Satvik Srivastava
 
-<!--
-**Bamvoov/Bamvoov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Branch:** Int Mtech Computer Science Engineering Computational and Data Science
+📅 **Year:** First year
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+✨ I am passionate about learning and growing in the field of technology.
+💡  *I hope to learn:*
+* Android Development 
+
+---
+
+## 🌱 Currently Exploring
+
+* 🔹 Machine Learning
+* 🔹 Problem solving
+* 🔹 AI/ML
+
+---
+
+
+⭐ *“Learning never stops, and neither do I.”*
