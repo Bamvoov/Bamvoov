@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Satvik Srivastava
 
 🎓 **Branch:** Int Mtech Computer Science Engineering Computational and Data Science
+
    **College** Vit Bhopal University
 📅 **Year:** First year
 
